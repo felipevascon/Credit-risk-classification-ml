@@ -32,13 +32,13 @@ O pipeline do projeto contempla as seguintes etapas:
 - Avaliação realizada automaticamente pelo Kaggle com base no conjunto de teste com gabarito oculto.
 
 ## Estrutura do Repositório
-.
+```
 ├── Data/                     # Conjunto de dados fornecido
 ├── classif_inadp_credito.ipynb  # Código principal do projeto
 ├── submission_trab1.csv      # Arquivo de submissão no Kaggle
 ├── Relatorio_Trabalho1.pdf   # Relatório detalhado do trabalho
 └── README.md
-
+```
 
 ## Relatório
 O relatório detalha todo o desenvolvimento do trabalho, incluindo pré-processamento, modelos testados, técnicas de validação, ajustes de hiperparâmetros e resultados obtidos.
